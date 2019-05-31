@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FSMReader
+comment1.params=line
+comment1.target=boolean\ CorrectSentence(java.lang.String)
+comment1.text=\n\ CorrectSentence\ is\ the\ code\ for\ the\ finite\ state\ machine,\ determining\ if\ a\ line\ is\ a\ correctly\ formed\ sentence.\n\ @param\ line\ a\ sentence\ to\ be\ checked\n\ @return\ true\ if\ correct,\ false\ if\ not\n\ @throws\ IllegalArgumentException\ (unless\ it\ is\ broken\ this\ shouldn't\ be\ thrown).\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\n\ Main\n\ @param\ a\ file\ name,\ in\ quotation\ marks\ e.g.\ "string.txt"\n\ @return\ void,\ but\ goes\ line\ by\ line,\ prints\ out\ each\ sentence\ and\ determines\ if\ correct\ or\ incorrect.\n
+numComments=3
